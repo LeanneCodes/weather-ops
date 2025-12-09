@@ -11,20 +11,21 @@
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background-image: url('../public/paris-bg.jpg');
+    background-image: url('paris-bg-2.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #weather {
-    width: 100%;
+    width: 60%;
     height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
     align-items: center;
+    background-color: white;
 }
 
 #plot-card {
