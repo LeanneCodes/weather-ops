@@ -22,3 +22,4 @@ timestamp,city,temperature,description
 2025-12-10T16:18:50.444Z,Paris,13.16,broken clouds
 2025-12-10T18:20:35.831Z,Paris,11.02,clear sky
 2025-12-10T20:15:16.620Z,Paris,9.06,clear sky
+2025-12-10T22:13:38.358Z,Paris,7.43,fog
