@@ -13,24 +13,24 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 11.29,
-    "feels_like": 10.75,
-    "temp_min": 10.77,
-    "temp_max": 12.1,
-    "pressure": 1025,
-    "humidity": 87,
-    "sea_level": 1025,
-    "grnd_level": 1016
+    "temp": 13.04,
+    "feels_like": 12.51,
+    "temp_min": 11.88,
+    "temp_max": 13.47,
+    "pressure": 1026,
+    "humidity": 81,
+    "sea_level": 1026,
+    "grnd_level": 1017
   },
   "visibility": 10000,
   "wind": {
     "speed": 6.69,
-    "deg": 250
+    "deg": 260
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1771661842,
+  "dt": 1771669015,
   "sys": {
     "type": 2,
     "id": 2012208,
@@ -42,5 +42,5 @@
   "id": 2988507,
   "name": "Paris",
   "cod": 200,
-  "_last_updated_utc": "2026-02-21T08:20:05.167Z"
+  "_last_updated_utc": "2026-02-21T10:16:55.538Z"
 }
