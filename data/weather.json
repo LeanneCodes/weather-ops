@@ -8,29 +8,29 @@
       "id": 701,
       "main": "Mist",
       "description": "mist",
-      "icon": "50n"
+      "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 6.64,
-    "feels_like": 4.42,
+    "temp": 6.43,
+    "feels_like": 4.16,
     "temp_min": 5.43,
-    "temp_max": 7.28,
+    "temp_max": 6.88,
     "pressure": 1016,
     "humidity": 83,
     "sea_level": 1016,
     "grnd_level": 1007
   },
-  "visibility": 6000,
+  "visibility": 5000,
   "wind": {
     "speed": 3.09,
-    "deg": 20
+    "deg": 10
   },
   "clouds": {
-    "all": 52
+    "all": 56
   },
-  "dt": 1774068668,
+  "dt": 1774074518,
   "sys": {
     "type": 1,
     "id": 6550,
@@ -42,5 +42,5 @@
   "id": 2988507,
   "name": "Paris",
   "cod": 200,
-  "_last_updated_utc": "2026-03-21T05:04:18.606Z"
+  "_last_updated_utc": "2026-03-21T06:31:51.656Z"
 }
